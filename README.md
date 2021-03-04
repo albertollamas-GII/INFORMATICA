@@ -30,7 +30,7 @@ Correspondiente al curso **2019/2020**.
 | --- | --- | --- | --- | --- |
 | [`CALI`](https://github.com/albertollamass/GII-CALI) | [**Cálculo I**](https://github.com/albertollamass/GII-CALI) | Matemáticas | Análisis Matemático | ![C](https://img.shields.io/badge/-C-green) |
 | [`FFT`](https://github.com/albertollamass/GII-FFT) | [**Fundamentos Físicos y Tecnológicos**](https://github.com/albertollamass/GII-FFT) | Ingeniería Informática | Física | ![C](https://img.shields.io/badge/-C-green) |
-| [`FP`](https://github.com/albertollamass/GII-FP) | [**Fundamentos de Programación**](https://github.com/albertollamass/GII-FP) | Ingeniería Informática | Ciencias de la Computación e Inteligencia Artificial | ![C](https://img.shields.io/badge/-C-green) |
+| [`FP`](https://github.com/albertollamass/GII-FP) | [**Fundamentos de Programación**](https://github.com/albertollamass/GII-FP) | Ingeniería Informática | Ciencias de la Computación e Inteligencia Artificial | ![B](https://img.shields.io/badge/-B-yellow) |
 | [`FS`](https://github.com/albertollamass/GII-FS) | [**Fundamentos del Software**](https://github.com/albertollamass/GII-FS) | Ingeniería Informática | Lenguajes y Sistemas Informáticos | ![C](https://img.shields.io/badge/-C-green) |
 | [`ALEM`](https://github.com/albertollamass/GII-ALEM) | [**Algebra Lineal y Métodos Discretos**](https://github.com/albertollamass/GII-ALEM) | Ingeniería Informática | Álgebra | ![C](https://img.shields.io/badge/-C-green) |
 
