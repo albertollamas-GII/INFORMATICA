@@ -14,6 +14,7 @@ Estoy trabajando para poder recopilar todo el contenido que he hecho. Aquí se e
 * Prácticas
 * Exámenes
 
+Las asignaturas _Cálculo I_ y _Estadística_ no habrá apuntes para informática ya que las cursé en Matemáticas y me las convalidaron.
 Si no está alguna asignatura, o quieres aportar contenido, siempre puedes contactar conmigo por mis redes sociales o por correo electrónico: [alberto.ll.go@gmail.com](mailto:alberto.ll.go@gmail.com)
 
 ### Índice
@@ -29,43 +30,43 @@ Si no está alguna asignatura, o quieres aportar contenido, siempre puedes conta
 
 ###### Primer cuatrimestre
 
-| Abbr. | Nombre de asignatura | Grado | Departamento | Fase |
+| Abbr. | Nombre de asignatura | Profesor | Fase |
 | --- | --- | --- | --- | --- |
-| [`CALI`](https://github.com/albertollamass/GII-CALI) | [**Cálculo I**](https://github.com/albertollamass/GII-CALI) | Matemáticas | Análisis Matemático | ![C](https://img.shields.io/badge/-C-green) |
-| [`FFT`](https://github.com/albertollamass/GII-FFT) | [**Fundamentos Físicos y Tecnológicos**](https://github.com/albertollamass/GII-FFT) | Ingeniería Informática | Física | ![C](https://img.shields.io/badge/-C-green) |
-| [`FP`](https://github.com/albertollamass/GII-FP) | [**Fundamentos de Programación**](https://github.com/albertollamass/GII-FP) | Ingeniería Informática | Ciencias de la Computación e Inteligencia Artificial | ![B](https://img.shields.io/badge/-C-green) |
-| [`FS`](https://github.com/albertollamass/GII-FS) | [**Fundamentos del Software**](https://github.com/albertollamass/GII-FS) | Ingeniería Informática | Lenguajes y Sistemas Informáticos | ![C](https://img.shields.io/badge/-C-green) |
-| [`ALEM`](https://github.com/albertollamass/GII-ALEM) | [**Algebra Lineal y Métodos Discretos**](https://github.com/albertollamass/GII-ALEM) | Ingeniería Informática | Álgebra | ![C](https://img.shields.io/badge/-C-green) |
+| [`CALI`](https://github.com/albertollamass/GII-CALI) | [**Cálculo I**](https://github.com/albertollamass/GII-CALI) | JP - (Matemáticas) | ![C](https://img.shields.io/badge/-C-green) |
+| [`FFT`](https://github.com/albertollamass/GII-FFT) | [**Fundamentos Físicos y Tecnológicos**](https://github.com/albertollamass/GII-FFT) | Jose Luís Padilla de la Torre | ![C](https://img.shields.io/badge/-C-green) |
+| [`FP`](https://github.com/albertollamass/GII-FP) | [**Fundamentos de Programación**](https://github.com/albertollamass/GII-FP) | Juan Carlos Cubero / Antonio Garrido | ![B](https://img.shields.io/badge/-C-green) |
+| [`FS`](https://github.com/albertollamass/GII-FS) | [**Fundamentos del Software**](https://github.com/albertollamass/GII-FS) | David Griol | ![C](https://img.shields.io/badge/-C-green) |
+| [`ALEM`](https://github.com/albertollamass/GII-ALEM) | [**Algebra Lineal y Métodos Discretos**](https://github.com/albertollamass/GII-ALEM) | Manuel Cortés | ![C](https://img.shields.io/badge/-C-green) |
 
 ###### Segundo cuatrimestre
 
-| Abbr. | Nombre de asignatura | Grado | Departamento | Fase |
+| Abbr. | Nombre de asignatura | Profesor | Fase |
 | --- | --- | --- | --- | --- |
-| [`LMD`](https://github.com/albertollamass/GII-LMD) | [**Lógica y Métodos Discretos**](https://github.com/albertollamass/GII-LMD) | Ingeniería Informática | Álgebra | ![A](https://img.shields.io/badge/-C-green) |
-| [`EDIP`](https://github.com/albertollamass/GII-EDIP) | [**Estadística Descriptiva e Introducción a la Probabilidad**](https://github.com/albertollamass/GII-EDIP) | Matemáticas | Estadística e Investigación Operativa | ![C](https://img.shields.io/badge/-C-green) |
-| [`IES`](https://github.com/albertollamass/GII-IES) | [**Ingeniería, Empresa y Sociedad**](https://github.com/albertollamass/GII-IES) |  |  | ![A](https://img.shields.io/badge/-C-green) |
-| [`MP`](https://github.com/albertollamass/GII-MP) | [**Metodología de la Programación**](https://github.com/albertollamass/GII-MP) | Ingeniería Informática | Ciencias de la Computación e Inteligencia Artificial | ![C](https://img.shields.io/badge/-C-green) |
-| [`TOC`](https://github.com/mianfg/GII-TOC) | [**Tecnología de Organización de Computadores**](https://github.com/albertollamass/GII-TOC) | Ingeniería Informática | Lenguajes y Sistemas Informáticos | ![C](https://img.shields.io/badge/-C-green) |
+| [`LMD`](https://github.com/albertollamass/GII-LMD) | [**Lógica y Métodos Discretos**](https://github.com/albertollamass/GII-LMD) | 'Salas' | ![A](https://img.shields.io/badge/-C-green) |
+| [`EDIP`](https://github.com/albertollamass/GII-EDIP) | [**Estadística Descriptiva e Introducción a la Probabilidad**](https://github.com/albertollamass/GII-EDIP) | Maldonado (Matemáticas) | ![C](https://img.shields.io/badge/-C-green) |
+| [`IES`](https://github.com/albertollamass/GII-IES) | [**Ingeniería, Empresa y Sociedad**](https://github.com/albertollamass/GII-IES) | Javier Delgado Ceballos | ![A](https://img.shields.io/badge/-C-green) |
+| [`MP`](https://github.com/albertollamass/GII-MP) | [**Metodología de la Programación**](https://github.com/albertollamass/GII-MP) | Andrés Cano / Luis Castillo | ![C](https://img.shields.io/badge/-C-green) |
+| [`TOC`](https://github.com/mianfg/GII-TOC) | [**Tecnología de Organización de Computadores**](https://github.com/albertollamass/GII-TOC) | Pedro Martín Smith | ![C](https://img.shields.io/badge/-C-green) |
 
 ### Segundo curso
 
 ###### Primer cuatrimestre
 
-| Abbr. | Nombre de asignatura | Grado | Departamento | Fase |
+| Abbr. | Nombre de asignatura | Profesor | Fase |
 | --- | --- | --- | --- | --- |
 | [`SCD`](https://github.com/albertollamass/GII-SCD) | [**Sistemas Concurrentes y Distribuidos**](https://github.com/albertollamass/GII-SCD) | Ingeniería Informática | Lenguajes y Sistemas Informáticos | ![A](https://img.shields.io/badge/-A-red) |
 | [`PDOO`](https://github.com/albertollamass/GII-PDOO) | [**Programación y Diseño Orientado a Objetos**](https://github.com/albertollamass/GII-PDOO) | Ingeniería Informática | Lenguajes y Sistemas Informáticos | ![A](https://img.shields.io/badge/-A-red) |
-| [`EC`](https://github.com/albertollamass/GII-EC) | [**Estructura de Computadores**](https://github.com/albertollamass/GII-EC) | Ingeniería Informática | Arquitectura y Tecnología de Computadores | ![C](https://img.shields.io/badge/-C-green) |
-| [`ED`](https://github.com/albertollamass/GII-ED) | [**Estructuras de Datos**](https://github.com/albertollamass/GII-ED) | Ingeniería Informática | Ciencias de la Computación e Inteligencia Artificial | ![C](https://img.shields.io/badge/-C-green) |
-| [`SO`](https://github.com/albertollamass/GII-SO) | [**Sistemas Operativos**](https://github.com/albertollamass/GII-SO) | Ingeniería Informática | Lenguajes y Sistemas Informáticos | ![C](https://img.shields.io/badge/-C-green) |
+| [`EC`](https://github.com/albertollamass/GII-EC) | [**Estructura de Computadores**](https://github.com/albertollamass/GII-EC) | Baldomero | ![C](https://img.shields.io/badge/-C-green) |
+| [`ED`](https://github.com/albertollamass/GII-ED) | [**Estructuras de Datos**](https://github.com/albertollamass/GII-ED) | Rosa María Rodríguez Sanchéz | ![C](https://img.shields.io/badge/-C-green) |
+| [`SO`](https://github.com/albertollamass/GII-SO) | [**Sistemas Operativos**](https://github.com/albertollamass/GII-SO) | Patricia Paderewski | ![C](https://img.shields.io/badge/-C-green) |
 
 ###### Segundo cuatrimestre
 
 | Abbr. | Nombre de asignatura | Grado | Departamento | Fase |
 | --- | --- | --- | --- | --- |
-| [`AC`](https://github.com/albertollamass/GII-AC) | [**Arquitectura de Computadores**](https://github.com/albertollamass/GII-AC) | Ingeniería Informática | Arquitectura y Tecnología de Computadores | ![A](https://img.shields.io/badge/-C-green) |
-| [`ALGO`](https://github.com/albertollamass/GII-ALGO) | [**Algorítmica**](https://github.com/albertollamass/GII-ALGO) | Ingeniería Informática | Ciencias de la Computación e Inteligencia Artificial | ![A](https://img.shields.io/badge/-C-green) |
-| [`FBD`](https://github.com/albertollamass/GII-FBD) | [**Fundamentos de Bases de Datos**](https://github.com/albertollamass/GII-FBD) | Ingeniería Informática | Ciencias de la Computación e Inteligencia Artificial | ![A](https://img.shields.io/badge/-C-green) |
-| [`IA`](https://github.com/albertollamass/GII-IA) | [**Inteligencia Artificial**](https://github.com/albertollamass/GII-IA) | Ingeniería Informática | Ciencias de la Computación e Inteligencia Artificial | ![A](https://img.shields.io/badge/-A-red) |
-| [`FIS`](https://github.com/albertollamass/GII-FIS) | [**Fundamentos de Ingeniería del Software**](https://github.com/albertollamass/GII-FIS) | Ingeniería Informática | Lenguajes y Sistemas Informáticos | ![A](https://img.shields.io/badge/-C-green) |
+| [`AC`](https://github.com/albertollamass/GII-AC) | [**Arquitectura de Computadores**](https://github.com/albertollamass/GII-AC) | Julio Ortega / Juan Carlos Gómez | ![A](https://img.shields.io/badge/-C-green) |
+| [`ALGO`](https://github.com/albertollamass/GII-ALGO) | [**Algorítmica**](https://github.com/albertollamass/GII-ALGO) | Manuel Pegalajar | ![A](https://img.shields.io/badge/-C-green) |
+| [`FBD`](https://github.com/albertollamass/GII-FBD) | [**Fundamentos de Bases de Datos**](https://github.com/albertollamass/GII-FBD) | Carlos Porcel / Rocío Romero | ![A](https://img.shields.io/badge/-C-green) |
+| [`IA`](https://github.com/albertollamass/GII-IA) | [**Inteligencia Artificial**](https://github.com/albertollamass/GII-IA) |  | ![A](https://img.shields.io/badge/-A-red) |
+| [`FIS`](https://github.com/albertollamass/GII-FIS) | [**Fundamentos de Ingeniería del Software**](https://github.com/albertollamass/GII-FIS) | Juan Ruiz de Miras | ![A](https://img.shields.io/badge/-C-green) |
 
