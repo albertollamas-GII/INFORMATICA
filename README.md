@@ -9,7 +9,7 @@ Los repositorios se encuentran en tres fases:
 * ![B](https://img.shields.io/badge/-B-yellow): el repositorio ha sido creado, y quedan contenidos por subir.
 * ![C](https://img.shields.io/badge/-C-green): todos los contenidos han sido subidos. 
 
-Estoy trabajando para poder recopilar todo el contenido que he hecho. Aquí se encuentra el contenido principal de cada asignatura que normalmente está compuesta por una parte teórica y una práctica. Si quieres ver todo el contenido con el que he estudiado a lo largo de la carrera puedes verlo aquí [https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Google_Drive_icon_%282020%29.svg/1200px-Google_Drive_icon_%282020%29.svg.png](https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Google_Drive_icon_%282020%29.svg/1200px-Google_Drive_icon_%282020%29.svg.png). Los apuntes en este git están organizados de la siguiente manera:
+Estoy trabajando para poder recopilar todo el contenido que he hecho. Aquí se encuentra el contenido principal de cada asignatura que normalmente está compuesta por una parte teórica y una práctica. Si quieres ver todo el contenido con el que he estudiado a lo largo de la carrera puedes verlo [aquí](). Los apuntes en este git están organizados de la siguiente manera:
 * Teoría
 * Prácticas
 * Exámenes
