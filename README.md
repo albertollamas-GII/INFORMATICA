@@ -31,7 +31,7 @@ Si no está alguna asignatura, o quieres aportar contenido, siempre puedes conta
 ###### Primer cuatrimestre
 
 | Abbr. | Nombre de asignatura | Profesor | Fase |
-| --- | --- | --- | --- | --- |
+| --- | --- | --- | --- |
 | [`CALI`](https://github.com/albertollamass/GII-CALI) | [**Cálculo I**](https://github.com/albertollamass/GII-CALI) | JP - (Matemáticas) | ![C](https://img.shields.io/badge/-C-green) |
 | [`FFT`](https://github.com/albertollamass/GII-FFT) | [**Fundamentos Físicos y Tecnológicos**](https://github.com/albertollamass/GII-FFT) | Jose Luís Padilla de la Torre | ![C](https://img.shields.io/badge/-C-green) |
 | [`FP`](https://github.com/albertollamass/GII-FP) | [**Fundamentos de Programación**](https://github.com/albertollamass/GII-FP) | Juan Carlos Cubero / Antonio Garrido | ![B](https://img.shields.io/badge/-C-green) |
@@ -41,7 +41,7 @@ Si no está alguna asignatura, o quieres aportar contenido, siempre puedes conta
 ###### Segundo cuatrimestre
 
 | Abbr. | Nombre de asignatura | Profesor | Fase |
-| --- | --- | --- | --- | --- |
+| --- | --- | --- | --- |
 | [`LMD`](https://github.com/albertollamass/GII-LMD) | [**Lógica y Métodos Discretos**](https://github.com/albertollamass/GII-LMD) | 'Salas' | ![A](https://img.shields.io/badge/-C-green) |
 | [`EDIP`](https://github.com/albertollamass/GII-EDIP) | [**Estadística Descriptiva e Introducción a la Probabilidad**](https://github.com/albertollamass/GII-EDIP) | Maldonado (Matemáticas) | ![C](https://img.shields.io/badge/-C-green) |
 | [`IES`](https://github.com/albertollamass/GII-IES) | [**Ingeniería, Empresa y Sociedad**](https://github.com/albertollamass/GII-IES) | Javier Delgado Ceballos | ![A](https://img.shields.io/badge/-C-green) |
@@ -53,7 +53,7 @@ Si no está alguna asignatura, o quieres aportar contenido, siempre puedes conta
 ###### Primer cuatrimestre
 
 | Abbr. | Nombre de asignatura | Profesor | Fase |
-| --- | --- | --- | --- | --- |
+| --- | --- | --- | --- |
 | [`SCD`](https://github.com/albertollamass/GII-SCD) | [**Sistemas Concurrentes y Distribuidos**](https://github.com/albertollamass/GII-SCD) | Ingeniería Informática | Lenguajes y Sistemas Informáticos | ![A](https://img.shields.io/badge/-A-red) |
 | [`PDOO`](https://github.com/albertollamass/GII-PDOO) | [**Programación y Diseño Orientado a Objetos**](https://github.com/albertollamass/GII-PDOO) | Ingeniería Informática | Lenguajes y Sistemas Informáticos | ![A](https://img.shields.io/badge/-A-red) |
 | [`EC`](https://github.com/albertollamass/GII-EC) | [**Estructura de Computadores**](https://github.com/albertollamass/GII-EC) | Baldomero | ![C](https://img.shields.io/badge/-C-green) |
@@ -62,8 +62,8 @@ Si no está alguna asignatura, o quieres aportar contenido, siempre puedes conta
 
 ###### Segundo cuatrimestre
 
-| Abbr. | Nombre de asignatura | Grado | Departamento | Fase |
-| --- | --- | --- | --- | --- |
+| Abbr. | Nombre de asignatura | Profesor | Fase |
+| --- | --- | --- | --- |
 | [`AC`](https://github.com/albertollamass/GII-AC) | [**Arquitectura de Computadores**](https://github.com/albertollamass/GII-AC) | Julio Ortega / Juan Carlos Gómez | ![A](https://img.shields.io/badge/-C-green) |
 | [`ALGO`](https://github.com/albertollamass/GII-ALGO) | [**Algorítmica**](https://github.com/albertollamass/GII-ALGO) | Manuel Pegalajar | ![A](https://img.shields.io/badge/-C-green) |
 | [`FBD`](https://github.com/albertollamass/GII-FBD) | [**Fundamentos de Bases de Datos**](https://github.com/albertollamass/GII-FBD) | Carlos Porcel / Rocío Romero | ![A](https://img.shields.io/badge/-C-green) |
