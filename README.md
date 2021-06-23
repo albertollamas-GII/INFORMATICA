@@ -29,7 +29,7 @@ Si no está alguna asignatura, o quieres aportar contenido, siempre puedes conta
 ### Primer curso
 
 ###### Primer cuatrimestre
-
+**_Nota:_** _Los archivos de las asignaturas de este cuatrimestre están un poco desordenados, aún así hay material de sobra_
 | Abbr. | Nombre de asignatura | Profesor | Fase |
 | --- | --- | --- | --- |
 | [`CALI`](https://github.com/albertollamass/GII-CALI) | [**Cálculo I**](https://github.com/albertollamass/GII-CALI) | JP - (Matemáticas) | ![C](https://img.shields.io/badge/-C-green) |
