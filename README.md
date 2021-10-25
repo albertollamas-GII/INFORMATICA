@@ -70,3 +70,17 @@ Si no está alguna asignatura, o quieres aportar contenido, siempre puedes conta
 | [`IA`](https://github.com/albertollamass/GII-IA) | [**Inteligencia Artificial**](https://github.com/albertollamass/GII-IA) |  | ![A](https://img.shields.io/badge/-A-red) |
 | [`FIS`](https://github.com/albertollamass/GII-FIS) | [**Fundamentos de Ingeniería del Software**](https://github.com/albertollamass/GII-FIS) | Juan Ruiz de Miras | ![A](https://img.shields.io/badge/-C-green) |
 
+### Tercer curso
+
+###### Primer cuatrimestre
+
+| Abbr. | Nombre de asignatura | Profesor | Fase |
+| --- | --- | --- | --- |
+| [`IG`](https://github.com/albertollamass/GII-IG) | [**Informática Gráfica**](https://github.com/albertollamass/GII-IGG) | Javier Melero | ![A](https://img.shields.io/badge/-A-red) |
+| [`ISE`](https://github.com/albertollamass/GII-ISE) | [**Ingeniería de Servidores**](https://github.com/albertollamass/GII-ISE) | Pablo García / Hector Pomares / Juanjo | ![A](https://img.shields.io/badge/-A-red) |
+| [`MC`](https://github.com/albertollamass/GII-MC) | [**Modelos de Computación**](https://github.com/albertollamass/GII-MC) | Juan Luis | ![C](https://img.shields.io/badge/-A-red) |
+| [`FR`](https://github.com/albertollamass/GII-FR) | [**Fundamentos de Redes**](https://github.com/albertollamass/GII-FR) | Antonio Mora | ![C](https://img.shields.io/badge/-A-red) |
+| [`DDSI`](https://github.com/albertollamass/GII-DDSI) | [**Diseño y Desarrollo de Sistemas de Información**](https://github.com/albertollamass/GII-DDSI) | Francisco Cabrerizo Lorite | ![C](https://img.shields.io/badge/-A-red) |
+
+
+
