@@ -76,11 +76,11 @@ Si no está alguna asignatura, o quieres aportar contenido, siempre puedes conta
 
 | Abbr. | Nombre de asignatura | Profesor | Fase |
 | --- | --- | --- | --- |
-| [`IG`](https://github.com/albertollamass/GII-IG) | [**Informática Gráfica**](https://github.com/albertollamass/GII-IG) | Javier Melero | ![A](https://img.shields.io/badge/-C-green) |
+| [`IG`](https://github.com/albertollamass/GII-IG) | [**Informática Gráfica**](https://github.com/albertollamass/GII-IG) | Javier Melero | ![A](https://img.shields.io/badge/-B-yellow) |
 | [`ISE`](https://github.com/albertollamass/GII-ISE) | [**Ingeniería de Servidores**](https://github.com/albertollamass/GII-ISE) | Pablo García / Hector Pomares / Juanjo | ![A](https://img.shields.io/badge/-A-red) |
-| [`MC`](https://github.com/albertollamass/GII-MC) | [**Modelos de Computación**](https://github.com/albertollamass/GII-MC) | Juan Luis | ![C](https://img.shields.io/badge/-A-red) |
-| [`FR`](https://github.com/albertollamass/GII-FR) | [**Fundamentos de Redes**](https://github.com/albertollamass/GII-FR) | Antonio Mora | ![C](https://img.shields.io/badge/-A-red) |
-| [`DDSI`](https://github.com/albertollamass/GII-DDSI) | [**Diseño y Desarrollo de Sistemas de Información**](https://github.com/albertollamass/GII-DDSI) | Francisco Cabrerizo Lorite | ![C](https://img.shields.io/badge/-A-red) |
+| [`MC`](https://github.com/albertollamass/GII-MC) | [**Modelos de Computación**](https://github.com/albertollamass/GII-MC) | Juan Luis | ![C](https://img.shields.io/badge/-B-yellow) |
+| [`FR`](https://github.com/albertollamass/GII-FR) | [**Fundamentos de Redes**](https://github.com/albertollamass/GII-FR) | Antonio Mora | ![C](https://img.shields.io/badge/-B-yellow) |
+| [`DDSI`](https://github.com/albertollamass/GII-DDSI) | [**Diseño y Desarrollo de Sistemas de Información**](https://github.com/albertollamass/GII-DDSI) | Francisco Cabrerizo Lorite | ![C](https://img.shields.io/badge/-B-yellow) |
 
 
 
