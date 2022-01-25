@@ -55,7 +55,7 @@ Si no está alguna asignatura, o quieres aportar contenido, siempre puedes conta
 | Abbr. | Nombre de asignatura | Profesor | Fase |
 | --- | --- | --- | --- |
 | [`SCD`](https://github.com/albertollamass/GII-SCD) | [**Sistemas Concurrentes y Distribuidos**](https://github.com/albertollamass/GII-SCD) | | ![A](https://img.shields.io/badge/-A-red) |
-| [`PDOO`](https://github.com/albertollamass/GII-PDOO) | [**Programación y Diseño Orientado a Objetos**](https://github.com/albertollamass/GII-PDOO) | Zoraida Callejas / Edo  | ![A](https://img.shields.io/badge/-C-green) |
+| [`PDOO`](https://github.com/albertollamass/GII-PDOO) | [**Programación y Diseño Orientado a Objetos**](https://github.com/albertollamass/GII-PDOO) | Zoraida Callejas / Edo  | ![C](https://img.shields.io/badge/-C-green) |
 | [`EC`](https://github.com/albertollamass/GII-EC) | [**Estructura de Computadores**](https://github.com/albertollamass/GII-EC) | Baldomero | ![C](https://img.shields.io/badge/-C-green) |
 | [`ED`](https://github.com/albertollamass/GII-ED) | [**Estructuras de Datos**](https://github.com/albertollamass/GII-ED) | Rosa María Rodríguez Sanchéz | ![C](https://img.shields.io/badge/-C-green) |
 | [`SO`](https://github.com/albertollamass/GII-SO) | [**Sistemas Operativos**](https://github.com/albertollamass/GII-SO) | Patricia Paderewski | ![C](https://img.shields.io/badge/-C-green) |
@@ -76,7 +76,7 @@ Si no está alguna asignatura, o quieres aportar contenido, siempre puedes conta
 
 | Abbr. | Nombre de asignatura | Profesor | Fase |
 | --- | --- | --- | --- |
-| [`IG`](https://github.com/albertollamass/GII-IG) | [**Informática Gráfica**](https://github.com/albertollamass/GII-IG) | Javier Melero | ![A](https://img.shields.io/badge/-A-red) |
+| [`IG`](https://github.com/albertollamass/GII-IG) | [**Informática Gráfica**](https://github.com/albertollamass/GII-IG) | Javier Melero | ![A](https://img.shields.io/badge/-C-green) |
 | [`ISE`](https://github.com/albertollamass/GII-ISE) | [**Ingeniería de Servidores**](https://github.com/albertollamass/GII-ISE) | Pablo García / Hector Pomares / Juanjo | ![A](https://img.shields.io/badge/-A-red) |
 | [`MC`](https://github.com/albertollamass/GII-MC) | [**Modelos de Computación**](https://github.com/albertollamass/GII-MC) | Juan Luis | ![C](https://img.shields.io/badge/-A-red) |
 | [`FR`](https://github.com/albertollamass/GII-FR) | [**Fundamentos de Redes**](https://github.com/albertollamass/GII-FR) | Antonio Mora | ![C](https://img.shields.io/badge/-A-red) |
