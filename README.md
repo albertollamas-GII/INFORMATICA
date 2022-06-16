@@ -26,8 +26,8 @@ Si no está alguna asignatura, o quieres aportar contenido, siempre puedes conta
 	* [Primer cuatrimestre](#primer-cuatrimestre-1)
 	* [Segundo cuatrimestre](#segundo-cuatrimestre-1)
 * [Tercer curso](#tercer-curso)
-	* [Primer cuatrimestre](primer-cuatrimestre-3)
-	* [Segundo cuatrimestre](segundo-cuatrimestre-3)
+	* [Primer cuatrimestre](#primer-cuatrimestre-2)
+	* [Segundo cuatrimestre](#segundo-cuatrimestre-2)
 
 ### Primer curso
 
