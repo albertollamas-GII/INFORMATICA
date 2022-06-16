@@ -69,7 +69,7 @@ Si no está alguna asignatura, o quieres aportar contenido, siempre puedes conta
 | [`AC`](https://github.com/albertollamass/GII-AC) | [**Arquitectura de Computadores**](https://github.com/albertollamass/GII-AC) | Julio Ortega / Juan Carlos Gómez | ![A](https://img.shields.io/badge/-C-green) |
 | [`ALG`](https://github.com/albertollamass/GII-ALG) | [**Algorítmica**](https://github.com/albertollamass/GII-ALG) | Manuel Pegalajar | ![A](https://img.shields.io/badge/-C-green) |
 | [`FBD`](https://github.com/albertollamass/GII-FBD) | [**Fundamentos de Bases de Datos**](https://github.com/albertollamass/GII-FBD) | Carlos Porcel / Rocío Romero | ![A](https://img.shields.io/badge/-C-green) |
-| [`IA`](https://github.com/albertollamass/GII-IA) | [**Inteligencia Artificial**](https://github.com/albertollamass/GII-IA) |  | ![A](https://img.shields.io/badge/-A-red) |
+| [`IA`](https://github.com/albertollamass/GII-IA) | [**Inteligencia Artificial(sólo prácticas)**](https://github.com/albertollamass/GII-IA) |  | ![A](https://img.shields.io/badge/-A-red) |
 | [`FIS`](https://github.com/albertollamass/GII-FIS) | [**Fundamentos de Ingeniería del Software**](https://github.com/albertollamass/GII-FIS) | Juan Ruiz de Miras | ![A](https://img.shields.io/badge/-C-green) |
 
 ### Tercer curso
@@ -78,11 +78,19 @@ Si no está alguna asignatura, o quieres aportar contenido, siempre puedes conta
 
 | Abbr. | Nombre de asignatura | Profesor | Fase |
 | --- | --- | --- | --- |
-| [`IG`](https://github.com/albertollamass/GII-IG) | [**Informática Gráfica**](https://github.com/albertollamass/GII-IG) | Javier Melero | ![A](https://img.shields.io/badge/-C-green) |
+| [`IG`](https://github.com/albertollamass/GII-IG) | [**Informática Gráfica**](https://github.com/albertollamass/GII-IG) | Javier Melero | ![C](https://img.shields.io/badge/-C-green) |
 | [`ISE`](https://github.com/albertollamass/GII-ISE) | [**Ingeniería de Servidores**](https://github.com/albertollamass/GII-ISE) | Pablo García / Hector Pomares / Juanjo | ![A](https://img.shields.io/badge/-C-green) |
 | [`MC`](https://github.com/albertollamass/GII-MC) | [**Modelos de Computación**](https://github.com/albertollamass/GII-MC) | Juan Luis | ![C](https://img.shields.io/badge/-C-green) |
 | [`FR`](https://github.com/albertollamass/GII-FR) | [**Fundamentos de Redes**](https://github.com/albertollamass/GII-FR) | Antonio Mora | ![C](https://img.shields.io/badge/-C-green) |
 | [`DDSI`](https://github.com/albertollamass/GII-DDSI) | [**Diseño y Desarrollo de Sistemas de Información**](https://github.com/albertollamass/GII-DDSI) | Francisco Cabrerizo Lorite | ![C](https://img.shields.io/badge/-C-green) |
 
+###### Segundo cuatrimestre
 
+| Abbr. | Nombre de asignatura | Profesor | Fase |
+| --- | --- | --- | --- |
+| [`DS`](https://github.com/albertollamass/Practicas-DS) | [**Desarrollo Software**](https://github.com/albertollamass/Practicas-DS) | Maria del Mar Abad Grau | ![C](https://img.shields.io/badge/-C-green) |
+| [`SIBW`](https://github.com/albertollamass/GII-SIBW) | [**Sistemas de Información Basados en Web**](https://github.com/albertollamass/GII-SIBW) | Sergio Zerjillo | ![C](https://img.shields.io/badge/-C-green) |
+| [`SG`](https://github.com/albertollamass/GII-SG) | [**Sistemas Gráficos**](https://github.com/albertollamass/GII-SG) | Francisco Velasco | ![C](https://img.shields.io/badge/-C-green) |
+| [`DSD`](https://github.com/albertollamass/GII-DSD) | [**Desarrollo de Sistemas Distribuidos**](https://github.com/albertollamass/GII-DSD) | Jose Luis Bullejos | ![C](https://img.shields.io/badge/-C-green) |
+| [`DIU`](https://github.com/albertollamass/DIU) | [**Diseño de Interfaces de Usuario**](https://github.com/albertollamass/DIU) | Miguel Gea | ![C](https://img.shields.io/badge/-C-green) |
 
