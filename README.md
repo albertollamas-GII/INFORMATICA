@@ -85,7 +85,7 @@ Si no está alguna asignatura, o quieres aportar contenido, siempre puedes conta
 | [`FR`](https://github.com/albertollamass/GII-FR) | [**Fundamentos de Redes**](https://github.com/albertollamass/GII-FR) | Antonio Mora | ![C](https://img.shields.io/badge/-C-green) |
 | [`DDSI`](https://github.com/albertollamass/GII-DDSI) | [**Diseño y Desarrollo de Sistemas de Información**](https://github.com/albertollamass/GII-DDSI) | Francisco Cabrerizo Lorite | ![C](https://img.shields.io/badge/-C-green) |
 
-###### Segundo cuatrimestre
+###### Segundo cuatrimestre (Mención Ingeniería del Software)
 
 | Abbr. | Nombre de asignatura | Profesor | Fase |
 | --- | --- | --- | --- |
@@ -95,3 +95,12 @@ Si no está alguna asignatura, o quieres aportar contenido, siempre puedes conta
 | [`DSD`](https://github.com/albertollamass/GII-DSD) | [**Desarrollo de Sistemas Distribuidos**](https://github.com/albertollamass/GII-DSD) | Jose Luis Bullejos | ![C](https://img.shields.io/badge/-C-green) |
 | [`DIU`](https://github.com/albertollamass/DIU) | [**Diseño de Interfaces de Usuario**](https://github.com/albertollamass/DIU) | Miguel Gea | ![C](https://img.shields.io/badge/-C-green) |
 
+### Cuarto curso
+
+###### Primer cuatrimestre (Mención Ingeniería del Software)
+
+| Abbr. | Nombre de asignatura | Profesor | Fase |
+| --- | --- | --- | --- |
+| [`DGP`](https://github.com/albertollamass/GII-DGP) | [** Dirección y Gestión de Proyectos**](https://github.com/albertollamass/GII-DGP) | María Isabel Rodríguez | ![C](https://img.shields.io/badge/-C-green) |
+| [`MDA`](https://github.com/albertollamass/GII-MDA) | [**Metodologías de Desarrollo Ágil**](https://github.com/albertollamass/GII-MDA) | María Luisa Almendros | ![A](https://img.shields.io/badge/-C-green) |
+| [`DBA`]() | [**Desarrollo Basado en Agentes**]() | Luis Castillo | ![C](https://img.shields.io/badge/-C-green) |
