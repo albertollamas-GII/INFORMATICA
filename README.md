@@ -67,11 +67,11 @@ Si no está alguna asignatura, o quieres aportar contenido, siempre puedes conta
 
 | Abbr. | Nombre de asignatura | Profesor | Fase |
 | --- | --- | --- | --- |
-| [`AC`](https://github.com/albertollamass/GII-AC) | [**Arquitectura de Computadores**](https://github.com/albertollamass/GII-AC) | Julio Ortega / Juan Carlos Gómez | ![A](https://img.shields.io/badge/-C-green) |
+| [`AC`](https://github.com/albertollamass/GII-AC) | [**Arquitectura de Computadores**](https://github.com/albertollamass/GII-AC) | Julio Ortega / Juan Carlos Gómez | ![C](https://img.shields.io/badge/-C-green) |
 | [`ALG`](https://github.com/albertollamass/GII-ALG) | [**Algorítmica**](https://github.com/albertollamass/GII-ALG) | Manuel Pegalajar | ![A](https://img.shields.io/badge/-C-green) |
-| [`FBD`](https://github.com/albertollamass/GII-FBD) | [**Fundamentos de Bases de Datos**](https://github.com/albertollamass/GII-FBD) | Carlos Porcel / Rocío Romero | ![A](https://img.shields.io/badge/-C-green) |
-| [`IA`](https://github.com/albertollamass/GII-IA) | [**Inteligencia Artificial(sólo prácticas)**](https://github.com/albertollamass/GII-IA) |  | ![A](https://img.shields.io/badge/-A-red) |
-| [`FIS`](https://github.com/albertollamass/GII-FIS) | [**Fundamentos de Ingeniería del Software**](https://github.com/albertollamass/GII-FIS) | Juan Ruiz de Miras | ![A](https://img.shields.io/badge/-C-green) |
+| [`FBD`](https://github.com/albertollamass/GII-FBD) | [**Fundamentos de Bases de Datos**](https://github.com/albertollamass/GII-FBD) | Carlos Porcel / Rocío Romero | ![C](https://img.shields.io/badge/-C-green) |
+| [`IA`](https://github.com/albertollamass/GII-IA) | [**Inteligencia Artificial(sólo prácticas)**](https://github.com/albertollamass/GII-IA) |  | ![C](https://img.shields.io/badge/-C-green) |
+| [`FIS`](https://github.com/albertollamass/GII-FIS) | [**Fundamentos de Ingeniería del Software**](https://github.com/albertollamass/GII-FIS) | Juan Ruiz de Miras | ![C](https://img.shields.io/badge/-C-green) |
 
 ### Tercer curso
 
