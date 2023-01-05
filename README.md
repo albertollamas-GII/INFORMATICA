@@ -101,6 +101,6 @@ Si no está alguna asignatura, o quieres aportar contenido, siempre puedes conta
 
 | Abbr. | Nombre de asignatura | Profesor | Fase |
 | --- | --- | --- | --- |
-| [`DGP`](https://github.com/albertollamass/GII-DGP) | [** Dirección y Gestión de Proyectos**](https://github.com/albertollamass/GII-DGP) | María Isabel Rodríguez | ![C](https://img.shields.io/badge/-C-green) |
+| [`DGP`](https://github.com/albertollamass/GII-DGP) | [**Dirección y Gestión de Proyectos**](https://github.com/albertollamass/GII-DGP) | María Isabel Rodríguez | ![C](https://img.shields.io/badge/-C-green) |
 | [`MDA`](https://github.com/albertollamass/GII-MDA) | [**Metodologías de Desarrollo Ágil**](https://github.com/albertollamass/GII-MDA) | María Luisa Almendros | ![A](https://img.shields.io/badge/-C-green) |
 | [`DBA`]() | [**Desarrollo Basado en Agentes**]() | Luis Castillo | ![C](https://img.shields.io/badge/-C-green) |
